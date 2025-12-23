@@ -1,0 +1,10 @@
+{
+  "id": "youtubemusic",
+  "name": "YouTube Music",
+  "version": "1.4.1",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://music.youtube.com/"
+  },
+  "defaultIcon": "https://cdn.jsdelivr.net/gh/ferdium/ferdium-recipes@main/recipes/youtubemusic/icon.svg"
+}
